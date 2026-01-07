@@ -1,10 +1,10 @@
 {
-  "name": "MyID",
-  "short_name": "MyID",
+  "name": "Моя Дія",
+  "short_name": "Дія",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+  "background_color": "#0078D7",
+  "theme_color": "#0078D7",
   "icons": [
     {
       "src": "Screenshot_20260107-225945.jpg",
