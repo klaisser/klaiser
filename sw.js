@@ -1,7 +1,7 @@
 self.addEventListener('install', function(event) {
-  console.log('Service Worker установился');
+  console.log('Service Worker встановлено');
 });
 
 self.addEventListener('fetch', function(event) {
-  // можно ничего не делать, просто базовый PWA
+  // базова заглушка PWA
 });
